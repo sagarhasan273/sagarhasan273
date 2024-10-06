@@ -32,13 +32,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://sagarhasan273.github.io/Weather-app-react/"><b>React Weather APP</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
       <td><a href=""><b>Re-search & studies</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sagarhasan273/Re-Search-and-Study?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sagarhasan273/Re-Search-and-Study?style=flat-square&labelColor=343b41"/></td>
@@ -46,11 +39,18 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sagarhasan273/Re-Search-and-Study?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Algorithms & Data structure visualization</b></a></td>
+      <td><a href="https://sagarhasan273.github.io/Algorithm-Visualizer/"><b>Algorithms & Data structure visualization</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sagarhasan273/Algorithm-Visualizer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sagarhasan273/Algorithm-Visualizer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sagarhasan273/Algorithm-Visualizer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sagarhasan273/Algorithm-Visualizer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://sagarhasan273.github.io/Weather-app-react/"><b>React Weather APP</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sagarhasan273/Weather-app-react?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
