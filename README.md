@@ -4,23 +4,33 @@
 <p>Welcome to my page! </br> I'm Sagar, Fullstack Web developer and Problem Solver from <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/1x1/bd.svg" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
 Project Description for GitHub
 
+
 🌟 Transforming Learning: Dive into a comprehensive platform dedicated to JavaScript learning, where learners can easily grasp concepts through interactive examples and real-world applications.
+
 
 🚀 Innovative Solutions: My React-based project for displaying Project Euler problems and solutions showcases my ability to solve complex challenges and implement efficient algorithms.
 
+
 💡 Hands-On Experience: By leveraging modern technologies like React and MUI, I’ve crafted a user-friendly interface that enhances the learning experience, making coding concepts accessible to everyone.
+
 
 📈 Open Source Contribution: This project is not just a portfolio piece; it’s a contribution to the developer community. I welcome feedback, collaboration, and contributions to further enhance its capabilities.
 
+
 🔗 Collaborative Environment: Join me in creating a community-driven resource. With features that encourage discussion and sharing of ideas, we can foster a collaborative learning environment for budding developers.
+
 
 🎯 Problem-Solving Focus: Each problem in Project Euler represents a unique challenge, showcasing my analytical skills and commitment to finding elegant solutions that optimize performance and efficiency.
 
+
 📚 Code Quality & Best Practices: The project adheres to coding best practices, ensuring maintainability and scalability, which is crucial for any production-level software.
+
 
 🔍 Learn by Example: With detailed explanations and step-by-step guides, this project empowers users to learn coding by engaging with real problems and solutions, making programming less daunting.
 
+
 💻 Ready for Collaboration: I am eager to connect with fellow developers, educators, and recruiters interested in educational tech or innovative software solutions. Let’s collaborate to make coding accessible and enjoyable for everyone!
+
 
 <h3>Things I code with</h3>
 <p>
