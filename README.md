@@ -3,6 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Sagar, Fullstack Web developer and Problem Solver from <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/1x1/bd.svg" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
 Project Description for GitHub
+
 🌟 Transforming Learning: Dive into a comprehensive platform dedicated to JavaScript learning, where learners can easily grasp concepts through interactive examples and real-world applications.
 
 🚀 Innovative Solutions: My React-based project for displaying Project Euler problems and solutions showcases my ability to solve complex challenges and implement efficient algorithms.
@@ -20,6 +21,7 @@ Project Description for GitHub
 🔍 Learn by Example: With detailed explanations and step-by-step guides, this project empowers users to learn coding by engaging with real problems and solutions, making programming less daunting.
 
 💻 Ready for Collaboration: I am eager to connect with fellow developers, educators, and recruiters interested in educational tech or innovative software solutions. Let’s collaborate to make coding accessible and enjoyable for everyone!
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
