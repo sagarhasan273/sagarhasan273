@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sagar, Fullstack Web developer and Problem Solver from <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/1x1/bd.svg" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
+<p>Welcome to my page! </br> I'm Sagar, Software Engineer and Competitive Programmer from <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/1x1/bd.svg" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
 Project Description for GitHub
 
 
