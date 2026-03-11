@@ -79,6 +79,6 @@ I'm <b>Sagar Hasan</b>, a <b>Software Engineer</b> and <b>Competitive Programmer
 
 <h3>🤝 Let's Connect</h3>
 
-• LeetCode: https://leetcode.com/sagarhasan273 </b>
-• LinkedIn: https://www.linkedin.com/in/sagar-hasan-677b5b1ba </b>
+• LeetCode: https://leetcode.com/sagarhasan273 <br/>
+• LinkedIn: https://www.linkedin.com/in/sagar-hasan-677b5b1ba <br/>
 • Email: sagarhasan273@gmail.com 
