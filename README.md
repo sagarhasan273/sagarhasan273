@@ -50,6 +50,16 @@ I'm <b>Sagar Hasan</b>, a <b>Software Engineer</b> and <b>Competitive Programmer
 <tbody>
 
 <tr>
+<td><b>Val-5th finder</b></td>
+<td>A real-time social matchmaking platform built specifically for Valorant players who hate the Competitive queue's 4-player restriction.</td>
+</tr>
+
+<tr>
+<td><b>Talk2Active</b></td>
+<td>Scalable platform for IELTS learners to practice speaking with users globally, supporting real-time interaction and structured learning.</td>
+</tr>
+
+<tr>
 <td><b>Algorithms Visualizer</b></td>
 <td>Interactive platform to visualize core algorithms and data structures to improve learning and conceptual understanding.</td>
 </tr>
@@ -57,11 +67,6 @@ I'm <b>Sagar Hasan</b>, a <b>Software Engineer</b> and <b>Competitive Programmer
 <tr>
 <td><b>ds-saga-kit</b></td>
 <td>NPM library providing reusable implementations of common data structures and algorithms in JavaScript.</td>
-</tr>
-
-<tr>
-<td><b>Talk2Active</b></td>
-<td>Scalable platform for IELTS learners to practice speaking with users globally, supporting real-time interaction and structured learning.</td>
 </tr>
 
 </tbody>
