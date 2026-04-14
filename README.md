@@ -52,7 +52,7 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 ### 🏆 Competitive Programming
 
-• Solved **1100+ Data Structures & Algorithms problems** across various platforms  
+• Solved **1500+ Data Structures & Algorithms problems** across various platforms  
 • Active on **LeetCode** with consistent practice  
 • Strong foundation in **algorithms, optimization, and problem solving**  
 
