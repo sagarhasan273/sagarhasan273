@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sagar Hasan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sagar-hasan-677b5b1ba)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/sagarhasan273)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/sagarhasan273)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/sagarhasan273)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sagarhasan273@gmail.com)
 
 ---
@@ -62,7 +62,7 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 | Platform | Link |
 |:---|:---|
-| **LeetCode** | [leetcode.com/sagarhasan273](https://leetcode.com/sagarhasan273) |
+| **LeetCode** | [leetcode.com/sagarhasan273](https://leetcode.com/u/sagarhasan273) |
 | **LinkedIn** | [linkedin.com/in/sagar-hasan-677b5b1ba](https://www.linkedin.com/in/sagar-hasan-677b5b1ba) |
 | **Email** | [sagarhasan273@gmail.com](mailto:sagarhasan273@gmail.com) |
 | **GitHub** | [github.com/your-username](https://github.com/your-username) |
