@@ -65,7 +65,6 @@ I'm a software engineer with **2+ years of professional experience** building sc
 | **LeetCode** | [leetcode.com/sagarhasan273](https://leetcode.com/u/sagarhasan273) |
 | **LinkedIn** | [linkedin.com/in/sagar-hasan-677b5b1ba](https://www.linkedin.com/in/sagar-hasan-677b5b1ba) |
 | **Email** | [sagarhasan273@gmail.com](mailto:sagarhasan273@gmail.com) |
-| **GitHub** | [github.com/your-username](https://github.com/your-username) |
 
 ---
 
