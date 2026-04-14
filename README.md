@@ -17,11 +17,12 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | JavaScript / TypeScript, Python, Java, Go, C/C++ |
-| **Frontend** | React, Next.js |
-| **Backend** | Node.js, REST APIs, WebSockets |
-| **Databases** | MongoDB, PostgreSQL, Redis |
-| **Cloud & Tools** | Docker, Google Cloud Platform (GCP), Cloud Run, Git |
+| **Languages** | JavaScript (ES6+, async/await, closures, modules), Python, C/C++ |
+| **Frontend** | React, MUI (Material-UI), Redux, Vite, HTML, CSS, JavaScript |
+| **Backend** | Node.js/Express.js, Socket.io, REST APIs, WebSockets |
+| **Databases** | MySQL, SQL (queries, JOINs, indexing, transactions), MongoDB, Redis |
+| **Tools** | Git, GitHub, Node.js Inspector, REST APIs, Postman, Chrome DevTools, VS Code Debugger |
+| **Core Concepts** | DSA OOP, SOLID Principles, Design Patterns (Repository, Factory), System Design, Edge Case Analysis. |
 | **AI Integration** | LLM APIs, Prompt Engineering (Gemini, OpenAI) |
 
 **Interests:** System Design, Distributed Systems, Performance Optimization
