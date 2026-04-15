@@ -33,8 +33,8 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 | Project | Tech Stack | Key Impact / Metrics | Links |
 |:---|:---|:---|:---|
-| **Val-5th Finder** | React, Node.js, Socket.io, Redis, MongoDB | Real-time matchmaking for 200+ daily active users. Reduced match wait time by 60% using WebSocket connections. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/val-5th-finder) |
-| **Talk2Active** | Next.js, Express, WebRTC, PostgreSQL, GCP Cloud Run | Scaled to support 50+ concurrent speaking sessions. Implemented latency optimization reducing audio delay to <300ms. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/talk2active) |
+| **Val-5th Finder** | React, Node.js, Socket.io, Redis, MongoDB | Real-time matchmaking for concurrent daily active users. Reduced lobby wait time by efficient WebSocket connections & system design. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/val-5th-finder) |
+| **Talk2Active** | Next.js, Express, WebRTC, PostgreSQL, GCP Cloud Run | Scaled to support 20+ concurrent speaking sessions. Implemented latency optimization reduced audio delay to <300ms. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/talk2active) |
 |  **File Processing Kit** |  No round-trips to servers. Processing happens at native browser speed. | Built FileKit: React file processing suite — 6 tools, 100% local, sub-second, zero tracking. | [Live](https) \| [GitHub](https://github.com/sagarhasan273/file-processing-kit)
 | **Algorithms Visualizer** | React, TypeScript, Canvas API, Redux | 15+ visualized algorithms (sorting, pathfinding, trees). 5,000+ visits from students worldwide. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/Algorithm-Visualizer) |
 | **ds-saga-kit** | TypeScript, Jest, Rollup, npm | Published npm package with 200+ weekly downloads. 95% test coverage. Used in 3+ open-source projects. | [npm](https://npmjs.com/package/ds-saga-kit) \| [GitHub](https://github.com/sagarhasan273/ds-saga-kit-javascript) |
