@@ -43,7 +43,7 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 ### 📈 What I'm Currently Focused On
 
-- 🔹 Preparing for **System Design** interviews & **trade  Off** between technologies
+- 🔹 Preparing for **System Design** interviews & **Trade  Off** between technologies
 - 🔹 Contributing to open-source JavaScript libraries (e.g., Lodash)
 - 🔹 Deepening my **Go** and **Cloud Run** skills
 - 🔹 Building projects that integrate **LLM APIs**
