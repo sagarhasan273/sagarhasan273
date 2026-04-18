@@ -37,7 +37,7 @@ I'm a software engineer with **2+ years of professional experience** building sc
 | **Talk2Active** | TypeScript, React.js, Node.js, Express, WebRTC, Redis, MongoDB | Scaled to support 20+ concurrent speaking sessions. Implemented latency optimization reduced audio delay to <300ms. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/talk2active) |
 |  **File Processing Kit** |  TypeScript, React.js, Mui, npm libraries | Built FileKit: React file processing suite — 6 tools, 100% local, sub-second, zero tracking. | [Live](https://www.file-processing-kit.com) \| [GitHub](https://github.com/sagarhasan273/file-processing-kit) |
 | **ds-saga-kit** | JavaScript, npm, DSA | Published npm package with 200+ weekly downloads. 95% test coverage. | [npm](https://npmjs.com/package/ds-saga-kit) \| [GitHub](https://github.com/sagarhasan273/ds-saga-kit-javascript) |
-| **Algorithms Visualizer** | React, JavaScript, Canvas Svg, CSS, HTML | 15+ visualized algorithms (sorting, pathfinding, trees). Visual experience for students from worldwide. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/Algorithm-Visualizer) |
+| **Algorithms Visualizer** | React, JavaScript, Canvas Svg, CSS, HTML | 15+ visualized algorithms (sorting, pathfinding, trees). Visual experience for students from worldwide. | [Live](https://algo-visual-kit.vercel.app) \| [GitHub](https://github.com/sagarhasan273/Algorithm-Visualizer) |
 
 
 ---
