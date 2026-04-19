@@ -33,7 +33,7 @@ I'm a software engineer with **2+ years of professional experience** building sc
 
 | Project | Tech Stack | Key Impact / Metrics | Links |
 |:---|:---|:---|:---|
-| **Val-5th Finder** | React, Node.js, Socket.io, Redis, MongoDB | Real-time matchmaking for concurrent daily active users. Reduced lobby wait time by efficient WebSocket connections & system design. | [Live](https://www.val5th-finder.com) \| [GitHub](https://github.com/sagarhasan273/val-5th-finder) |
+| **Val-5th Finder** | React, Node.js, Socket.io, Redis, MongoDB | Real-time matchmaking for concurrent daily active users. Reduced lobby wait time by efficient WebSocket connections & system design. | [Live](https://www.val5th-finder.com) \| [GitHub](https://github.com/sagarhasan273/party-finder) |
 | **Talk2Active** | TypeScript, React.js, Node.js, Express, WebRTC, Redis, MongoDB | Scaled to support 20+ concurrent speaking sessions. Implemented latency optimization reduced audio delay to <300ms. | [Live](https://your-live-link.com) \| [GitHub](https://github.com/sagarhasan273/talk2active) |
 |  **File Processing Kit** |  TypeScript, React.js, Mui, npm libraries | Built FileKit: React file processing suite — 6 tools, 100% local, sub-second, zero tracking. | [Live](https://www.file-processing-kit.com) \| [GitHub](https://github.com/sagarhasan273/file-processing-kit) |
 | **ds-saga-kit** | JavaScript, npm, DSA | Published npm package with 200+ weekly downloads. 95% test coverage. | [npm](https://npmjs.com/package/ds-saga-kit) \| [GitHub](https://github.com/sagarhasan273/ds-saga-kit-javascript) |
