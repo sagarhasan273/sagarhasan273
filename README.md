@@ -9,7 +9,7 @@
 
 ### 🚀 Software Engineer | Full-Stack Developer
 
-I'm a software engineer with **3 years of professional experience** building scalable web applications. I focus on writing clean, efficient code and turning complex problems into simple, elegant solutions. I'm currently preparing for technical interviews and deepening my knowledge of distributed systems and cloud architecture.
+I'm a software engineer with **2+ years of professional experience** building scalable web applications. I focus on writing clean, efficient code and turning complex problems into simple, elegant solutions. I'm currently preparing for technical interviews and deepening my knowledge of distributed systems and cloud architecture.
 
 ---
 
