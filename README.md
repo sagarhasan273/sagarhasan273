@@ -56,6 +56,15 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 - Delivered **5+ frontend features** on schedule in agile sprints.
 - Wrote unit tests using Mocha, achieving **85% test coverage**.
 
+### Software Engineer Intern (Project-Based) | DIU (Ashulia, Savar, Dhaka)
+*07/2023 – 12/2023*
+
+- Designed and developed **Algorithms Visualizer**, a React-based educational platform used by **100+ students** globally.
+- Built **15+ algorithm and data structure visualizations** (array, stack, sorting, pathfinding, tree traversals) using **Canvas API and SVG** – translating complex DSA concepts into interactive visual experiences.
+- Implemented animation controls (speed, pause, step-by-step) using React state and hooks, improving student comprehension by **40%** (based on feedback).
+- Optimized rendering performance to handle **500+ animated elements** without frame drops.
+- Collaborated with faculty members to align visualizations with curriculum requirements.
+
 ---
 
 ## 🔥 Featured Projects
@@ -81,7 +90,7 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 
 | Platform | Stats |
 |:---|:---|
-| **LeetCode** | **1,200+ problems solved** – Top 5% globally |
+| **LeetCode** | **1,200+ problems solved** – Top 10% globally |
 | **HackerRank** | 5-star rating in Problem Solving & Algorithms |
 | **Codeforces** | Active participant |
 
@@ -95,6 +104,7 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 - ✅ **Performance optimization** – Achieved 25-35% speed improvements
 - ✅ **Real-time expertise** – Socket.io + WebRTC applications
 - ✅ **Full-stack awareness** – Understands backend for better API collaboration
+- ✅ **Educational impact** – Built Algorithms Visualizer used by 100+ students
 
 ---
 
@@ -122,32 +132,3 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
 ---
-
-### 📈 What I'm Currently Focused On
-
-- 🔹 Preparing for **System Design** interviews & **Trade  Off** between technologies
-- 🔹 Contributing to open-source JavaScript libraries (e.g., Lodash)
-- 🔹 Deepening my **Go** and **Cloud Run** skills
-- 🔹 Building projects that integrate **LLM APIs**
-
----
-
-### 🏆 Competitive Programming
-
-• Solved **1500+ Data Structures & Algorithms problems** across various platforms  
-• Active on **LeetCode** with consistent practice  
-• Strong foundation in **algorithms, optimization, and problem solving**  
-
----
-
-### 🤝 Let's Connect
-
-| Platform | Link |
-|:---|:---|
-| **LeetCode** | [leetcode.com/sagarhasan273](https://leetcode.com/u/sagarhasan273) |
-| **LinkedIn** | [linkedin.com/in/sagar-hasan-677b5b1ba](https://www.linkedin.com/in/sagar-hasan-677b5b1ba) |
-| **Email** | [sagarhasan273@gmail.com](mailto:sagarhasan273@gmail.com) |
-
----
-
-⭐ *Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.*
