@@ -13,12 +13,6 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 
 **Competitive programmer with 1,200+ problems solved on LeetCode** – demonstrating strong command of data structures, algorithms, and performance optimization.
 
-### 🎯 Currently
-- 🔭 Building production-grade React applications at **LYXA S.A.L**
-- 🌱 Deepening knowledge of **System Design** and **Distributed Systems**
-- 🎯 Preparing for **FAANG-level technical interviews**
-- 👨‍🏫 Mentoring junior developers through code reviews and 1-on-1 sessions
-
 ---
 
 ## 🛠️ Technical Skills
@@ -106,7 +100,15 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 - ✅ **Full-stack awareness** – Understands backend for better API collaboration
 - ✅ **Educational impact** – Built Algorithms Visualizer used by 100+ students
 
+### 🎯 Currently
+- 🔭 Building production-grade React applications at **LYXA S.A.L**
+- 🌱 Deepening knowledge of **System Design** and **Distributed Systems**
+- 🎯 Preparing for **FAANG-level technical interviews**
+- 👨‍🏫 Mentoring junior developers through code reviews and 1-on-1 sessions
+
 ---
+
+
 
 ## 📫 Let's Connect
 
