@@ -56,7 +56,7 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 - Designed and developed **Algorithms Visualizer**, a React-based educational platform used by **100+ students** globally.
 - Built **15+ algorithm and data structure visualizations** (array, stack, sorting, pathfinding, tree traversals) using **Canvas API and SVG** – translating complex DSA concepts into interactive visual experiences.
 - Implemented animation controls (speed, pause, step-by-step) using React state and hooks, improving student comprehension by **40%** (based on feedback).
-- Optimized rendering performance to handle **500+ animated elements** without frame drops.
+- Optimized rendering performance to handle **50+ animated elements** without frame drops.
 - Collaborated with faculty members to align visualizations with curriculum requirements.
 
 ---
