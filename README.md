@@ -7,11 +7,11 @@
 
 ---
 
-## 🚀 Software Engineer | React + TypeScript Specialist
+## 🚀 Software Engineer | Full-Stack (React/Node.js)
 
-I'm a **Frontend-focused Software Engineer** with **3 years of professional experience** building scalable, high-performance web applications. I specialize in **React, TypeScript, and Redux Toolkit** – crafting responsive UIs with clean, maintainable code.
+I'm a Full-Stack Software Engineer with **3 years of professional experience** building scalable, high-performance web applications. I specialize in **React & TypeScript** – crafting responsive UIs with clean, maintainable code, and building robust backend services with **Node.js, Express, and MongoDB**.
 
-**Competitive programmer with 1,200+ problems solved on LeetCode** – demonstrating strong command of data structures, algorithms, and performance optimization.
+🏆 **Competitive programmer with 1,200+ problems solved on LeetCode** – demonstrating strong command of data structures, algorithms, and performance optimization.
 
 ---
 
@@ -25,7 +25,7 @@ I'm a **Frontend-focused Software Engineer** with **3 years of professional expe
 | **Frontend Tooling** | Vite, Webpack, Babel, npm/yarn, Mocha, Chrome DevTools, Lighthouse |
 | **API & Real-Time** | RESTful APIs, GraphQL (concepts), Socket.io, Axios, React Query, WebRTC |
 | **Forms & Validation** | React Hook Form, Zod |
-| **Backend Awareness** | Node.js, Express.js (for API debugging & collaboration) |
+| **Backend** | Node.js, Express.js (for API debugging & collaboration) |
 | **Databases** | MySQL, MongoDB (for understanding data flow) |
 | **Version Control** | Git, GitHub, GitLab |
 | **Core CS** | Data Structures & Algorithms, OOP, SOLID Principles, DOM Manipulation, Virtual DOM, Component Lifecycle, Performance Profiling |
