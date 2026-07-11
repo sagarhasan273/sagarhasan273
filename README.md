@@ -84,7 +84,7 @@ I'm a Full-Stack Software Engineer with **3 years of professional experience** b
 
 | Platform | Stats |
 |:---|:---|
-| **LeetCode** | **1,200+ problems solved** – Top 10% globally |
+| **LeetCode** | **1,200+ problems solved** – Max 1800 ratings globally |
 | **HackerRank** | 5-star rating in Problem Solving & Algorithms |
 | **Codeforces** | Active participant |
 
