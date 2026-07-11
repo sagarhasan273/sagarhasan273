@@ -41,7 +41,7 @@ I'm a **Full-Stack Software Engineer** with nearly 3 years of React and 2 years 
 - Managed complex application state using **Redux Toolkit** – improved component reusability by **30%**.
 - Integrated RESTful APIs and Socket.io for real-time data synchronization serving **500+ daily active users**.
 - Optimized frontend performance using React.memo, useCallback, and useMemo – improving page load speed by **25%**.
-- **Mentored 3 junior developers** through code reviews, 1-on-1 sessions, and pair programming – helped them ship features independently within 2 months.
+- **Mentored 3 new developers** through code reviews, 1-on-1 sessions, and pair programming – helped them ship features independently within 2 months.
 
 ### Software Engineer Intern | LYXA S.A.L
 *01/2024 – 06/2024*
