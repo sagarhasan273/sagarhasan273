@@ -19,14 +19,14 @@ I'm a **Full-Stack Software Engineer** with nearly 3 years of React and 2 years 
 
 | Category | Technologies |
 |:---|:---|
-| **Frontend Core** | React 18, Next.js, TypeScript, JavaScript (ES6+), JSX, Babel |
+| **Frontend Core** | React.js, Next.js, TypeScript, JavaScript (ES6+), JSX, Babel |
 | **State Management** | Redux, Redux Toolkit, Context API |
 | **UI & Styling** | Material-UI (MUI), HTML5, CSS3, Flexbox/Grid, Responsive Design, Framer Motion |
 | **Frontend Tooling** | Vite, Webpack, Babel, npm/yarn, Mocha, Chrome DevTools, Lighthouse |
 | **API & Real-Time** | RESTful APIs, GraphQL (concepts), Socket.io, Axios, React Query, WebRTC |
 | **Forms & Validation** | React Hook Form, Zod |
 | **Backend** | Node.js, Express.js (for API debugging & collaboration) |
-| **Databases** | MySQL, MongoDB (for understanding data flow) |
+| **Databases** | MySQL, MongoDB (for understanding data flow), Redis |
 | **Version Control** | Git, GitHub, GitLab |
 | **Core CS** | Data Structures & Algorithms, OOP, SOLID Principles, DOM Manipulation, Virtual DOM, Component Lifecycle, Performance Profiling |
 
