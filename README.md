@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Software Engineer | Founder of Val5th-Finder | JavaScript Specialist | Full-Stack (React/Node.js)
+## 🚀 Software Engineer | Founder of Val5th-Finder | JavaScript Specialist | Full-Stack (React/Node.js) | Making JavaScript accessible through content
 
 I'm a **Full-Stack Software Engineer** with nearly 3 years of React and 2 years of Node.js experience. I specialize in building scalable web applications with a full-stack approach — turning complex problems into elegant solutions.
 
