@@ -11,7 +11,7 @@
 
 I'm a **Full-Stack Software Engineer** with nearly 3 years of React and 2 years of Node.js experience. I specialize in building scalable web applications with a full-stack approach — turning complex problems into elegant solutions.
 
-🏆 **Competitive programmer with 1,200+ problems solved on LeetCode with 1836+ max ratings globally** – demonstrating strong command of data structures, algorithms, and performance optimization.
+🏆 **Competitive programmer with 1,260+ problems solved on LeetCode with 1836+ max ratings globally** – demonstrating strong command of data structures, algorithms, and performance optimization.
 
 ---
 
