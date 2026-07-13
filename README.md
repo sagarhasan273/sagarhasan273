@@ -5,13 +5,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-1,200%2B%20Solved-orange)](https://leetcode.com/u/sagarhasan273)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sagarhasan273@gmail.com)
 
----
+## 🚀 Software Engineer | Full-Stack (React/Node.js) | Founder of Val5th-Finder
 
-## 🚀 Software Engineer | Founder of Val5th-Finder | JavaScript Specialist | Full-Stack (React/Node.js)
+I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development experience. I specialize in building **scalable, real-time web applications** — turning complex problems into elegant, production-ready solutions.
 
-I'm a **Full-Stack Software Engineer** with nearly 3 years of React and 2 years of Node.js experience. I specialize in building scalable web applications with a full-stack approach — turning complex problems into elegant solutions.
+🏆 **Competitive Programmer** — 1,260+ problems solved on LeetCode with **1836+ global rating** — demonstrating strong command of data structures, algorithms, and performance optimization.
 
-🏆 **Competitive programmer with 1,260+ problems solved on LeetCode with 1836+ max ratings globally** – demonstrating strong command of data structures, algorithms, and performance optimization.
+📝 **Technical Writer** — Published a LeetCode solution article with **24,000+ views** — helping thousands of developers grasp complex DSA concepts and making JavaScript accessible through content.
 
 ---
 
