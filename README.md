@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-1,200%2B%20Solved-orange)](https://leetcode.com/u/sagarhasan273)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sagarhasan273@gmail.com)
 
-## 🚀 Software Engineer | Full-Stack (React/Node.js) | Founder of Val5th-Finder
+## 🚀 Software Engineer | Full-Stack (React/Node.js) | Competitive Programmer
 
 I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development experience. I specialize in building **scalable, real-time web applications** — turning complex problems into elegant, production-ready solutions.
 
