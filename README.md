@@ -44,14 +44,6 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 | **ds-saga-kit** | JavaScript, TypeScript, npm | Published npm package with **200+ weekly downloads**. **95% test coverage**. Comprehensive DSA utility library. | [npm](https://npmjs.com/package/ds-saga-kit) \| [GitHub](https://github.com/sagarhasan273/ds-saga-kit-javascript) |
 | **Algorithms Visualizer** | React, JavaScript, Canvas API, SVG, CSS, HTML | **15+ visualized algorithms** (sorting, pathfinding, tree traversals). Used by **100+ students** globally. Achieved **40% improvement** in student comprehension. | [Live](https://algo-visual-kit.vercel.app) \| [GitHub](https://github.com/sagarhasan273/Algorithm-Visualizer) |
 
----
-
-## 📊 GitHub Stats
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarhasan273&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarhasan273&layout=compact&theme=radical)
-
----
 
 ## 🏆 Competitive Programming
 
