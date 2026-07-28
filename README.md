@@ -13,25 +13,6 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 
 📝 **Technical Writer** — Published a LeetCode solution article with **24,000+ views** — helping thousands of developers grasp complex DSA concepts and making JavaScript accessible through content.
 
----
-
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-|:---|:---|
-| **Frontend Core** | React.js, Next.js, TypeScript, JavaScript (ES6+), JSX, Babel |
-| **State Management** | Redux, Redux Toolkit, Context API |
-| **UI & Styling** | Material-UI (MUI), HTML5, CSS3, Flexbox/Grid, Responsive Design, Framer Motion |
-| **Frontend Tooling** | Vite, Webpack, Babel, npm/yarn, Mocha, Chrome DevTools, Lighthouse |
-| **API & Real-Time** | RESTful APIs, GraphQL (concepts), Socket.io, Axios, React Query, WebRTC |
-| **Forms & Validation** | React Hook Form, Zod |
-| **Backend** | Node.js, Express.js (for API debugging & collaboration) |
-| **Databases** | MySQL, MongoDB (for understanding data flow), Redis |
-| **Version Control** | Git, GitHub, GitLab |
-| **Core CS** | Data Structures & Algorithms, OOP, SOLID Principles, DOM Manipulation, Virtual DOM, Component Lifecycle, Performance Profiling |
-
----
-
 ## 💼 Professional Experience
 
 ### Software Engineer | LYXA S.A.L (Dhaka, Bangladesh)
