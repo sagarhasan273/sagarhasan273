@@ -32,15 +32,6 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 - Debugged and improved system performance through structured issue tracking and proactive problem-solving.
 - Participated in daily stand-ups and sprint planning, **delivering 5+ frontend** features on schedule.
 
-### Software Engineer Intern | DIU (Ashulia, Savar, Dhaka)
-*07/2023 – 12/2023*
-
-- Designed and developed **Algorithms Visualizer**, a React-based educational platform used by **100+ students** globally.
-- Built **15+ algorithm and data structure visualizations** (array, stack, sorting, pathfinding, tree traversals) using **Canvas API and SVG** – translating complex DSA concepts into interactive visual experiences.
-- Implemented animation controls (speed, pause, step-by-step) using React state and hooks, improving student comprehension by **40%** (based on feedback).
-- Optimized rendering performance to handle **50+ animated elements** without frame drops.
-- Collaborated with faculty members to align visualizations with curriculum requirements.
-
 ---
 
 ## 🔥 Featured Projects
@@ -75,7 +66,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 ## ✨ What Makes Me Stand Out
 
 - ✅ **1,200+ LeetCode problems** – Strong problem-solving foundation
-- ✅ **3 years of React/TypeScript experience** – Production-grade applications
+- ✅ **2+ years of React/TypeScript experience** – Production-grade applications
 - ✅ **Mentoring experience** – Led code reviews for junior developers
 - ✅ **Performance optimization** – Achieved 25-35% speed improvements
 - ✅ **Real-time expertise** – Socket.io + WebRTC applications
