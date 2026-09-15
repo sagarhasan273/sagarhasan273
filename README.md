@@ -56,7 +56,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 
 | Platform | Stats |
 |:---|:---|
-| **LeetCode** | **1,200+ problems solved** – Max 1800 ratings globally |
+| **LeetCode** | **1,300+ problems solved** – Max 1800 ratings globally |
 | **HackerRank** | 5-star rating in Problem Solving & Algorithms |
 | **Codeforces** | Active participant |
 
@@ -64,7 +64,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 
 ## ✨ What Makes Me Stand Out
 
-- ✅ **1,200+ LeetCode problems** – Strong problem-solving foundation
+- ✅ **1,300+ LeetCode problems** – Strong problem-solving foundation
 - ✅ **2+ years of React/TypeScript experience** – Production-grade applications
 - ✅ **Mentoring experience** – Led code reviews for junior developers
 - ✅ **Performance optimization** – Achieved 25-35% speed improvements
