@@ -9,7 +9,7 @@
 
 I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development experience. I specialize in building **scalable, real-time web applications** — turning complex problems into elegant, production-ready solutions.
 
-🏆 **Competitive Programmer** — 1,260+ problems solved on LeetCode with **1836+ global rating** — demonstrating strong command of data structures, algorithms, and performance optimization.
+🏆 **Competitive Programmer** — 1,300+ problems solved on LeetCode with **1836+ global rating** — demonstrating strong command of data structures, algorithms, and performance optimization.
 
 📝 **Technical Writer** — Published a LeetCode solution article with **24,000+ views** — helping thousands of developers grasp complex DSA concepts and making JavaScript accessible through content.
 
