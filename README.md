@@ -16,7 +16,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 ## 💼 Professional Experience
 
 ### Software Engineer II | PFEC Global BD
-*09/2024 – present | Dhanmondi, Dhaka, Bangladesh*
+*09/2026 – present | Dhanmondi, Dhaka, Bangladesh*
 
 - Develop and maintain scalable web applications using React, Next.js, and Node.js, focusing on performance, reliability, and maintainable architecture.
 - Design and integrate RESTful APIs with Node.js and PostgreSQL, implementing efficient data management, validation, and backend business logic.
