@@ -20,7 +20,6 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 
 - Develop and maintain scalable web applications using React, Next.js, and Node.js, focusing on performance, reliability, and maintainable architecture.
 - Design and integrate RESTful APIs with Node.js and PostgreSQL, implementing efficient data management, validation, and backend business logic.
-- Contribute to DevOps and deployment workflows, including CI/CD, application deployment, environment configuration, monitoring, and production issue resolution.
 
 ### Software Engineer | LYXA S.A.L
 *07/2024 – 04/2026*
