@@ -7,7 +7,7 @@
 
 ## 🚀 Software Engineer | Full-Stack (React/Node.js) | Competitive Programmer
 
-I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development experience. I specialize in building **scalable, real-time web applications** — turning complex problems into elegant, production-ready solutions.
+I'm a **Full-Stack Software Engineer** with 3 years of full-stack development experience. I specialize in building **scalable, real-time web applications** — turning complex problems into elegant, production-ready solutions.
 
 🏆 **Competitive Programmer** — 1,300+ problems solved on LeetCode with **1836+ global rating** — demonstrating strong command of data structures, algorithms, and performance optimization.
 
@@ -22,7 +22,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 - Design and integrate RESTful APIs with Node.js and PostgreSQL, implementing efficient data management, validation, and backend business logic.
 
 ### Software Engineer | LYXA S.A.L
-*07/2024 – 04/2026*
+*07/2024 – 09/2026*
 
 - Designed and developed reusable React components with TypeScript and Material-UI across **10+ product modules**.
 - Build and maintain RESTful APIs using Node.js/Express + MongoDB; optimized slow queries, reducing response time by **25%**.
@@ -64,7 +64,7 @@ I'm a **Full-Stack Software Engineer** with 2 years+ of full-stack development e
 ## ✨ What Makes Me Stand Out
 
 - ✅ **1,300+ LeetCode problems** – Strong problem-solving foundation
-- ✅ **2+ years of React/TypeScript experience** – Production-grade applications
+- ✅ **3 years of React/TypeScript experience** – Production-grade applications
 - ✅ **Mentoring experience** – Led code reviews for junior developers
 - ✅ **Performance optimization** – Achieved 25-35% speed improvements
 - ✅ **Real-time expertise** – Socket.io + WebRTC applications
