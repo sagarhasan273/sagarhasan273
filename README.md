@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-1,300%2B%20Solved-orange)](https://leetcode.com/u/sagarhasan273)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sagarhasan273@gmail.com)
 
-## 🚀 Software Engineer | Full-Stack & Backend (Node.js / TypeScript / React) | Competitive Programmer
+## 🚀 Software Engineer (Backend, Full-Stack & AI) • Node.js / TypeScript | Competitive Programmer
 
 I'm a **Software Engineer** with 3 years of experience building **scalable, real-time web applications and backend systems** — turning complex engineering challenges into reliable, production-ready solutions.
 
