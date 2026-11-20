@@ -78,7 +78,6 @@ I'm a **Software Engineer** with 3 years of experience building **scalable, real
 - 🧠 **LeetCode:** [leetcode.com/u/sagarhasan273](https://leetcode.com/u/sagarhasan273)
 
 ---
-
-> *"I don't just solve problems – I visualize them. My Algorithms Visualizer project helps students worldwide understand complex DSA concepts through interactive animations."*
+> *"I don't just write backend code – I build real-time experiences. My platform [www.talk2active.com](https://www.talk2active.com) connects language learners worldwide in live, AI-assisted audio rooms to practice speaking with confidence."*
 
 ⭐ **If you find my projects useful, feel free to star a repository!**
