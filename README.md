@@ -27,11 +27,10 @@ I'm a **Software Engineer** with 3 years of experience building **scalable, real
 ### Software Engineer | LYXA S.A.L
 *07/2024 – 04/2026 | Gulshan-1, Dhaka, Bangladesh*
 
-- Built and maintained RESTful APIs using **Node.js, Express, and MongoDB**, optimizing database queries to reduce API response times by **25%**.
-- Designed a graph-based rider assignment system to improve dispatch efficiency and delivered **5 core order-flow features** on schedule with **<5% rework**.
-- Integrated RESTful APIs and **Socket.io** for real-time state synchronization and refactored legacy services using OOP and the Repository pattern.
+- Engineered backend services for a multi-sided **on-demand food delivery platform** using **Node.js, Express, and MongoDB**, managing real-time order lifecycles across customers, merchants, and riders.
+- Designed a graph-based rider assignment algorithm to optimize dispatch efficiency and delivered **5 core order-flow features** on schedule with **<5% rework**.
+- Integrated RESTful APIs and **Socket.io** for live order tracking and refactored legacy modules using **OOP, SOLID principles, and the Repository & Strategy patterns** to decouple business logic from data access.
 - Developed reusable **React, TypeScript, and Material-UI** components across **10+ product modules**.
-- **Mentored 3 junior developers**, leading code reviews and helping them ship production features independently within 2 months.
 
 ### Software Engineer Intern | LYXA S.A.L
 *01/2024 – 06/2024 | Gulshan-1, Dhaka, Bangladesh*
