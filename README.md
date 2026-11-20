@@ -22,7 +22,7 @@ I'm a **Software Engineer** with 3 years of experience building **scalable, real
 
 - Develop and maintain scalable full-stack web applications using **Node.js, TypeScript, React, Next.js, and PostgreSQL**, focusing on reliability, clean architecture, and performance.
 - Design and integrate RESTful APIs with efficient data modeling, validation, and backend business logic.
-- Contribute to CI/CD pipelines, production deployments, environment configuration, and live issue resolution.
+- Manage application deployments, environment configuration, production monitoring, and live issue resolution.
 
 ### Software Engineer | LYXA S.A.L
 *07/2024 – 04/2026 | Gulshan-1, Dhaka, Bangladesh*
@@ -66,7 +66,7 @@ I'm a **Software Engineer** with 3 years of experience building **scalable, real
 ## ✨ Highlights & Current Focus
 
 - **Backend & Real-Time Systems:** Production experience with Node.js, TypeScript, PostgreSQL, MongoDB, Redis, Docker, Socket.io, and WebRTC (LiveKit).
-- **Performance & Reliability:** Proven track record cutting API latency by **25–35%** and shipping maintainable systems with TDD and CI/CD.
+- **Performance & Reliability:** Proven track record cutting API latency by **25–35%** and shipping maintainable systems with TDD and clean architecture.
 - **Currently:** Building scalable backend and full-stack systems at **PFEC Global BD**, advancing **Talk2Active**, and deepening expertise in **Distributed Systems** and **AI-assisted workflows**.
 
 ---
